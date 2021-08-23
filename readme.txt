@@ -4,3 +4,4 @@ git is a software.s
 git has a mutable index called stage
 git tracks changes
 creat a new branch is quick
+11
